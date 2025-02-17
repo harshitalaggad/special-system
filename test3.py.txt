@@ -2,4 +2,14 @@ Harshita
 hiteshi 
 hiteshi
 print("hello")
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 print("git stash last data")
+=======
+print("new data")
+print("stash 2 new data")
+>>>>>>> Stashed changes
+=======
+print("new data")
+print("stash 2 new data")
+>>>>>>> Stashed changes
